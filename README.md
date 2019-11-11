@@ -8,7 +8,7 @@
 
 ## Lenguaje de programación
 
-* Eclipse
+* C++
 
 ## Información sobre el lenguaje
 
