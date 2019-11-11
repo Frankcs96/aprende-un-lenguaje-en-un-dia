@@ -2,9 +2,9 @@
 
 ## Miembros del grupo
 
-* [Francisco Carmona Suárez] (https://github.com/Frankcs96)
-* [Miguel González Mora] (https://github.com/Miguelgm1693)
-* [Pedro Cisneros Santana] (https://github.com/PedroCisnerosSantana)
+* [Francisco Carmona Suárez](https://github.com/Frankcs96)
+* [Miguel González Mora](https://github.com/Miguelgm1693)
+* [Pedro Cisneros Santana](https://github.com/PedroCisnerosSantana)
 
 ## Lenguaje de programación
 
