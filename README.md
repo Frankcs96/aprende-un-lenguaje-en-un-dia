@@ -25,6 +25,9 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 ### 1. ¡Hola mundo!
 
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
+
+Código en C++ del ¡Hola Mundo!: 
+
 ```C++
 #include <iostream>
 int main()
@@ -40,6 +43,37 @@ int main()
 ### 2. Pirámide
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
+
+Código en C++ de la piramide: 
+
+```C++
+#include<iostream>
+using namespace std;
+
+int main()
+{
+  int altura;
+
+  cout << "\n Introduzca la altura de la piramide: ";
+  cin >> altura;
+  cout << endl;
+  for (int i = 0; i < altura; i++) {
+
+    for (int j = altura - i; j > 1; j--)
+    {
+      cout << " ";
+    }
+
+    for (int k = 0; k < i * 2 + 1; k++)
+    {
+      cout << "*";
+    }
+
+    cout << "\n";
+  }
+  return 0;
+}
+```
 
 ![Piramide dibujada](https://github.com/Frankcs96/aprende-un-lenguaje-en-un-dia/blob/master/img/piramide.png) 
 
