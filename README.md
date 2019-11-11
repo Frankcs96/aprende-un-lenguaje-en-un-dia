@@ -25,6 +25,14 @@ Pon en práctica el lenguaje de programación realizando los siguientes ejercici
 ### 1. ¡Hola mundo!
 
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
+```C++
+#include <iostream>
+int main()
+{
+  std::cout << "Hello  World!";
+  return 0;
+}
+```
 
 ![Imágen de Hola Mundo](https://github.com/Frankcs96/aprende-un-lenguaje-en-un-dia/blob/master/img/helloworld.png)
 
