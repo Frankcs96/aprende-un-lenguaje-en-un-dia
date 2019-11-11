@@ -44,7 +44,7 @@ int main()
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
 
-Código en C++ de la piramide: 
+Código en C++ de la pirámide: 
 
 ```C++
 #include<iostream>
@@ -54,7 +54,7 @@ int main()
 {
   int altura;
 
-  cout << "\n Introduzca la altura de la piramide: ";
+  cout << "\n Introduzca la altura de la pirámide: ";
   cin >> altura;
   cout << endl;
   for (int i = 0; i < altura; i++) {
