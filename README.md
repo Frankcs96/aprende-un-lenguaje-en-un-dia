@@ -8,7 +8,7 @@
 
 ## Lenguaje de programación
 
-* C++
+* [C++](https://es.wikipedia.org/wiki/C%2B%2B)
 
 ## Información sobre el lenguaje
 
