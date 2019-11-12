@@ -14,7 +14,7 @@
 ## Información sobre el lenguaje
 
 <p>C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos.</p> <br>
-<h3>Caracteristicas c++ <h3>
+<h3>Caracteristicas c++ </h3>
   <ul>
     <li>Su sintaxis es heredada del lenguaje C. </li>
     <li>Programa orientado a objetos (POO).</li>
