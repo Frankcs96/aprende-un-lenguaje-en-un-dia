@@ -8,7 +8,7 @@
 
 ## Lenguaje de programación
 
-* [C++](https://es.wikipedia.org/wiki/C%2B%2B)
+* <a href="https://es.wikipedia.org/wiki/C%2B%2B" ![C++](https://es.wikipedia.org/wiki/C%2B%2B#/media/Archivo:ISO_C++_Logo.svg)></a>
 
 ## Información sobre el lenguaje
 
@@ -169,15 +169,4 @@ int main()
 
 ![Imagen de Arrays](https://github.com/Frankcs96/aprende-un-lenguaje-en-un-dia/blob/master/img/arrays.png)
 
-## Presentación de resultados
-
-Cada equipo explicará al resto de la clase lo aprendido durante la realización del ejercicio. Todos los miembros de cada equipo deben participar en la explicación. Se puede utilizar como material de base para la presentación el repositorio de GitHub.
-
-## Recompensa
-
-* Todos los alumnos que realicen correctamente la actividad tendrán 0'25 puntos extra en la nota del trimestre.
-
-* Los miembros del equipo más votado ganarán un premio.
-
-:star: Si te ha gustado este ejercicio, dale una estrellita al [repositorio original](https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia).
 
