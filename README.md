@@ -8,7 +8,7 @@
 
 ## Lenguaje de programación
 
-*<a href="https://es.wikipedia.org/wiki/C%2B%2B"> ![C++](https://github.com/Frankcs96/aprende-un-lenguaje-en-un-dia/blob/master/img/Logo.png)</a>
+<a href="https://es.wikipedia.org/wiki/C%2B%2B"> ![C++](https://github.com/Frankcs96/aprende-un-lenguaje-en-un-dia/blob/master/img/Logo.png)</a>
 
 
 ## Información sobre el lenguaje
