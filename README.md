@@ -81,6 +81,94 @@ int main()
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
 
+```C++
+#include <cstdlib> 
+#include <ctime> 
+#include <iostream>
+
+using namespace std;
+
+bool compruebaPrimo(int n)
+{
+	if (n == 1)
+	{
+		return false;
+	}
+
+	for (int i = 2; i < n; i++)
+	{
+		if (n % i == 0) {
+			return false;
+		}
+	}
+
+	return true;
+
+
+}
+
+
+int main()
+{
+	int array[20];
+	int primos[20];
+	int noPrimos[20];
+	int contadorNoPrimos = 0;
+	int contadorPrimos = 0;
+	srand(time(0));
+
+	cout << "Array original: ";
+	
+		
+	
+	
+
+	for (int i = 0; i < 20; i++)
+	{
+		array[i] = rand() % 100 + 1;
+		cout << array[i] << " ";
+	}
+
+	for (int i = 0; i < 20; i++)
+	{
+		if (compruebaPrimo(array[i])) {
+			primos[contadorPrimos] = array[i];
+			contadorPrimos++;	
+		}
+		else
+		{
+			noPrimos[contadorNoPrimos] = array[i];
+			contadorNoPrimos++;						
+		}	
+	}
+
+	for (int i = 0; i < contadorPrimos; i++)
+	{
+		array[i] = primos[i];
+	}
+
+	for (int i = contadorPrimos; i < 20; i++)
+	{
+		array[i] = noPrimos[i - contadorPrimos];
+
+	}
+
+	
+	cout << "\n\nArray ordenado con numeros primos en primeras posiciones: ";
+	for (int i = 0; i < 20; i++)
+	{
+		cout << array[i] << " ";
+	}
+
+
+	
+	return 0;
+}
+
+```
+
+![Imagen de Arrays](https://github.com/Frankcs96/aprende-un-lenguaje-en-un-dia/blob/master/img/arrays.png)
+
 ## Presentación de resultados
 
 Cada equipo explicará al resto de la clase lo aprendido durante la realización del ejercicio. Todos los miembros de cada equipo deben participar en la explicación. Se puede utilizar como material de base para la presentación el repositorio de GitHub.
