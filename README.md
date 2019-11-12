@@ -19,6 +19,8 @@ Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe 
 
 Utilizamos Visual Studio Enterprise
 
+![](https://github.com/Frankcs96/aprende-un-lenguaje-en-un-dia/blob/master/img/logoVisual.png)
+
 ## Poniendo en práctica el lenguaje
 
 Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
