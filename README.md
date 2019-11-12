@@ -8,7 +8,8 @@
 
 ## Lenguaje de programación
 
-* <a href="https://es.wikipedia.org/wiki/C%2B%2B" ![C++](https://es.wikipedia.org/wiki/C%2B%2B#/media/Archivo:ISO_C++_Logo.svg)></a>
+*<a href="https://es.wikipedia.org/wiki/C%2B%2B"> ![C++](https://es.wikipedia.org/wiki/C%2B%2B#/media/Archivo:ISO_C++_Logo.svg)></a>
+
 
 ## Información sobre el lenguaje
 
