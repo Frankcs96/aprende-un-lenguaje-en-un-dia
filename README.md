@@ -13,7 +13,19 @@
 
 ## Información sobre el lenguaje
 
-Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
+<p>C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos.</p> <br>
+<h3>Caracteristicas c++ <h3>
+  <ul>
+    <li>Su sintaxis es heredada del lenguaje C. </li>
+    <li>Programa orientado a objetos (POO).</li>
+    <li>Lenguaje muy didáctico, con este lenguaje puedes aprender muchos otros lenguajes con gran facilidad. </li>
+    <li>Es portátil y tiene un gran número de compiladores en diferentes plataformas y sistemas operativos. </li>
+    <li>Permite la separación de un programa en módulos que admiten compilación independiente. </li>
+    <li>Es un lenguaje de alto nivel. </li>
+    <li>Permite herencia multiple </li>
+    
+    
+  </ul>  
 
 ## Herramientas de desarrollo
 
