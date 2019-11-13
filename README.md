@@ -43,7 +43,7 @@
 Utilizamos Visual Studio Enterprise
 
 ![](https://github.com/Frankcs96/aprende-un-lenguaje-en-un-dia/blob/master/img/logoVisual.png)
-
+![](https://github.com/Frankcs96/aprende-un-lenguaje-en-un-dia/blob/master/img/logoCodeLite.png)
 
 ### 1. ¡Hola mundo!
 
