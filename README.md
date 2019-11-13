@@ -25,7 +25,18 @@
     <li>Permite herencia multiple </li>
     
     
-  </ul>  
+  </ul>
+  
+  <h3>Ejemplos famosos de software realizado con C++</h3>
+  <ul>
+    <li>Microsoft office</li>
+    <li>Photoshop</li>
+     <li>Game engines multiples como unity y unreal engine.</li>
+	<li>Mozilla Firefoz</li>
+	
+	
+  </ul>
+	
 
 ## Herramientas de desarrollo
 
